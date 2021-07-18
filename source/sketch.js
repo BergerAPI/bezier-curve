@@ -14,7 +14,7 @@ function setup() {
 
 function draw() {
   background(0);
-  stroke(252, 118, 106);
+  stroke(255);
 
   curve1.draw(p1, p2, p3);
   curve2.draw(p1, p2, p3);
